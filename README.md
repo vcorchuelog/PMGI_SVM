@@ -1,2 +1,2 @@
 # Repository
-SMV_python
+PMGI_project
