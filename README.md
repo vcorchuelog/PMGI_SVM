@@ -1,2 +1,2 @@
-# PMGI_SVM
+# Repository
 SMV_python
