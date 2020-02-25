@@ -1,2 +1,0 @@
-# Repository
-PMGI_project
